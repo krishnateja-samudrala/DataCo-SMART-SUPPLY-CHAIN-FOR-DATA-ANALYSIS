@@ -1,8 +1,7 @@
 # DataCo-SMART-SUPPLY-CHAIN-FOR-DATA-ANALYSIS
-E-Commerce Goods Shipment Duration prediction and Estimating Late Delivery Risk
 E-commerce goods Late delivery risk identification by predicting fastest and normal Shipping Durations. The Decision Tree model built by us, will enable E-commerce and Goods/products delivery industries to identify the 'risk of late delivery' and predict the fastest and normal duration of goods shipment for their Inland and foreign clients/ customers/buyers.
 
-GOAL :
+GOAL :\n
 Building a Multi-Output Decision Tree Regressor to determine the maximum range of shipping time, by predicting the Fastest and Normal duration for shipping of goods for both Inland and International customers.
 Building a Binary Classifier to classify orders with high probabilty of late delivery (Late Delivery Risk analyser).
 Data Source :
